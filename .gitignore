@@ -1,0 +1,9 @@
+output/android/arm64/*
+aom/*
+fdk-aac/*
+ffmpeg/*
+lame/*
+libvpx/*
+opus/*
+x264/*
+x265_git/*
